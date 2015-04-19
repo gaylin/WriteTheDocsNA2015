@@ -14,7 +14,7 @@ I've put together a list of pretty much everything associated with my talk at th
 
 ## Submitted abstract
 
-The title for my conference talk was:<img src="/images/write-the-docs-logo.png" alt="the logo for Write the Docs, as it appears on their sticker" style="float:right;PADDING-LEFT: 20px;PADDING-BOTTOM: 20px" height="200" width="200">
+The title for my conference talk was:
 
 >**The Making of Writing Black Belts: How Martial Arts Philosophy Forged an Ad-Hoc Writing Team that Writes Great Docs**
 
@@ -34,3 +34,5 @@ In the spirit of full disclosure, the proposal for this talk was submitted in la
 Most of the ideas in this talk are not mine to begin with. They are the direct result of my study as a martial artist under the tutelage of [Sifu Robert Brown](http://zenmartialarts.com/about_sifu.php) at the [School of Martial Arts](http://www.zenmartialarts.com) in Berkley, Michigan. If any of the  concepts about martial arts or the philosophy behind it are inaccurate in any way whatsoever, it is I, not he, who should be held accountable for the misrepresentation.
 
 I am not a master. I am but an egg.
+
+<img src="/images/write-the-docs-logo.png" alt="the logo for Write the Docs, as it appears on their sticker" height="200" width="200">
