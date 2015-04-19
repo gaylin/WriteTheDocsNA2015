@@ -9,7 +9,7 @@ I've put together a list of pretty much everything associated with my talk at th
 - a link to the slide presentation (forthcoming at [speakerdeck.com](https://speakerdeck.com/gaylin))
 - a link to the recording of me speaking (forthcoming)
 - an [explanation](/why-only-seven-and-a-half-rules.md) of the numbering of the rules
-- my [writer's bio](/gaylin.bio.md) (I was told I should have one, though I have no idea why you'd need it)
+- my [writer's bio](/gaylin-bio.md) (I was told I should have one, though I have no idea why you'd need it)
 - the [credits](/credits.md) for the images I used and research I did (thank you Creative Commons licensing)
 
 ## Submitted abstract
