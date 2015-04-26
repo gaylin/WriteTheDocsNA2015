@@ -12,6 +12,7 @@ These are the images I used throughout my presentation:
 * shout (purple pompons) - https://www.flickr.com/photos/mag3737/7736011590/
 * Write the Docs logo - https://github.com/writethedocs/writethedocs.github.com/tree/master/img/stickers
 * Social Media Icons - http://www.designbolts.com/2014/02/02/110-free-hand-stitch-social-media-icons-2014-vector-ai-pngs/
+* Octocat - https://github.com/logos
 
 # Recommended reading
 
