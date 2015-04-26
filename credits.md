@@ -13,6 +13,7 @@ These are the images I used throughout my presentation:
 * Write the Docs logo - https://github.com/writethedocs/writethedocs.github.com/tree/master/img/stickers
 * Social Media Icons - http://www.designbolts.com/2014/02/02/110-free-hand-stitch-social-media-icons-2014-vector-ai-pngs/
 * Octocat - https://github.com/logos
+* Yoda - http://www.empireonline.com/100-greatest-movie-characters/default.asp?c=25
 
 # Recommended reading
 
