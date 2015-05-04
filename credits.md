@@ -2,6 +2,7 @@
 
 These are the images I used throughout my presentation:
 
+* Scrat - http://www.iceagemovies.com/us/
 * Pied Piper of Hamlin - http://en.wikipedia.org/wiki/Pied_Piper_of_Hamelin#/media/File:Pied_piper.jpg
 * cap on books - https://www.flickr.com/photos/29008389@N03/4587170691/
 * Lulu learns patience - https://www.flickr.com/photos/wasabidoobie/2448490111/
