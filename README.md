@@ -33,6 +33,6 @@ In the spirit of full disclosure, the proposal for this talk was submitted in la
 
 Most of the ideas in this talk are not mine to begin with. They are the direct result of my study as a martial artist under the tutelage of [Sifu Robert Brown](http://zenmartialarts.com/about_sifu.php) at the [School of Martial Arts](http://www.zenmartialarts.com) in Berkley, Michigan. If any of the  concepts about martial arts or the philosophy behind it are inaccurate in any way whatsoever, it is I, not he, who should be held accountable for the misrepresentation.
 
-I am not a master. I am but an egg.
+I am not a master. [I am but an egg](http://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land).
 
 <img src="/images/write-the-docs-logo.png" alt="the logo for Write the Docs, as it appears on their sticker" height="200" width="200">
