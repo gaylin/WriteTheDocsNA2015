@@ -2,6 +2,7 @@
 
 These are the images from other people that I used throughout my presentation:
 
+* Thinker - https://www.flickr.com/photos/froderik/8283727226
 * Scrat - http://www.iceagemovies.com/us/
 * Pied Piper of Hamlin - http://en.wikipedia.org/wiki/Pied_Piper_of_Hamelin#/media/File:Pied_piper.jpg
 * cap on books - https://www.flickr.com/photos/29008389@N03/4587170691/
