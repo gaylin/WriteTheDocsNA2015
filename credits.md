@@ -28,3 +28,4 @@ These were some of the best things I read and viewed while I was developing this
 * [Git Real](https://www.codeschool.com/courses/git-real) - _An advanced introduction and guide to Git._
 * [Five Ways to Kill Your Dreams](https://www.ted.com/talks/bel_pesce_5_ways_to_kill_your_dreams) - _All of us want to invent that game-changing product, launch that successful company, write that best-selling book._
 * [drbrain's](https://github.com/drbrain) talk on [Open Source Maintenance](https://www.youtube.com/watch?v=WLoCnekSH3c) - _The joy and pain of being an open source developer._
+* [The psychology of simple] - Jory Mackay, [Crew blog](http://blog.pickcrew.com/the-psychology-of-simple/)
