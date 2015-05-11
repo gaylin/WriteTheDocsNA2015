@@ -18,6 +18,8 @@ These are the images from other people that I used throughout my presentation:
 * Octocat - https://github.com/logos
 * Write the Docs logo - https://github.com/writethedocs/writethedocs.github.com/tree/master/img/stickers
 
+Many thanks to everyone for offering up these images under Creative Commons licensing.
+
 # Recommended reading and viewing
 
 These were some of the best things I read and viewed while I was developing this talk:
