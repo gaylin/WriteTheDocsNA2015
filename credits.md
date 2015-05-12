@@ -21,7 +21,7 @@ Many thanks to everyone for offering up these images under Creative Commons lice
 
 # Recommended reading and viewing
 
-These were some of the best things I read and viewed while I was developing this talk:
+These were some of the <strike>best</strike> most interesting things I read and viewed while I was developing this talk:
 
 * [Lessons in Mindfulness](http://zenmartialarts.com/resources_lessonsinmindfulness.php) - _A man who has attained mastery of an art reveals it in his every action._
 * [speaking.io](http://speaking.io/) - _Because "imagine everyone is naked" is terrible advice._
