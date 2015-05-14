@@ -29,3 +29,4 @@ These were some of the <strike>best</strike> most interesting things I read and 
 * [Bel Pesce's](http://belpesce.com/about.php) TED Talk, [Five Ways to Kill Your Dreams](https://www.ted.com/talks/bel_pesce_5_ways_to_kill_your_dreams) - _All of us want to invent that game-changing product, launch that successful company, write that best-selling book._
 * [drbrain's](https://github.com/drbrain) talk on [Open Source Maintenance](https://www.youtube.com/watch?v=WLoCnekSH3c) - _The joy and pain of being an open source developer._
 * [Jory Mackay's](https://twitter.com/jorymackay) blog post [The psychology of simple](http://blog.pickcrew.com/the-psychology-of-simple/) - _Simplicity ... the pigs-in-blankets at the hors d’oeuvres table ... the little things that instantly put you at ease._
+* [Mr. Miyagi - On belts in Karate](https://www.youtube.com/watch?v=cm3ikyMzMlA) - _In Okinawa belt mean no need rope hold up pants._
