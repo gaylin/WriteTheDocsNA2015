@@ -30,3 +30,4 @@ These were some of the <strike>best</strike> most interesting things I read and 
 * [drbrain's](https://github.com/drbrain) talk on [Open Source Maintenance](https://www.youtube.com/watch?v=WLoCnekSH3c) - _The joy and pain of being an open source developer._
 * [Jory Mackay's](https://twitter.com/jorymackay) blog post [The psychology of simple](http://blog.pickcrew.com/the-psychology-of-simple/) - _Simplicity ... the pigs-in-blankets at the hors d’oeuvres table ... the little things that instantly put you at ease._
 * [Mr. Miyagi - On belts in Karate](https://www.youtube.com/watch?v=cm3ikyMzMlA) - _In Okinawa belt mean no need rope hold up pants._
+* [What does it mean to be mindful?](http://www.beliefnet.com/Faiths/Buddhism/2000/12/What-Does-It-Mean-To-Be-Mindful.aspx) - _Mindfulness is the quality of fullness of attention, immediacy, non-distraction._
