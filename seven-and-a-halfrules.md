@@ -9,7 +9,7 @@ These are the seven and a half rules I spoke about in my [slide presentation](ht
 1. **Persevere.** It takes consistency to become good as well.
 1. **Practice hard.** It's not going to be easy.
 1. **Practice exactly what you want to perform.** There's no room for "well, we would really do this other thing."
-1. **Still your mind.** Find you pause button to clear away the chaos of thought that clutters your brain.
+1. **Still your mind.** Find your pause button to clear away the chaos of thought that clutters your brain.
 1. **Make it your passion.** You've got to love it.
 
 and 7.5: 
