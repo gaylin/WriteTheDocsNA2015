@@ -12,6 +12,6 @@ These are the seven and a half rules I spoke about in my [slide presentation](ht
 1. **Still your mind.** Find your pause button to clear away the chaos of thought that clutters your brain.
 1. **Make it your passion.** You've got to love it.
 
-and 7.5: 
+and [7.5](/why-only-seven-and-a-half-rules.md): 
 
 **Shout it from the roofops.** In any endeavor, the best way to attract and encourage high quality partners is to shout it from the rooftops.
