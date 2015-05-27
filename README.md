@@ -6,7 +6,7 @@ These are the references and materials for my Write the Docs NA 2015 talk. Feel 
 
 I've put together a list of pretty much everything associated with my talk at the conference including:
 
-- a [link to the video](https://youtu.be/4PP2xBsMWKw) of me speaking (and eventually a transcript too)
+- a [link to the video](https://youtu.be/4PP2xBsMWKw) of me speaking (and a link to [the rest of the talks](https://www.youtube.com/playlist?list=PLkQw3GZ0bq1JvhaLqfBqRFuaY108QmJDK))
 - a [link to the slides](https://speakerdeck.com/gaylin/the-making-of-writing-black-belts-how-martial-arts-philosophy-forged-an-ad-hoc-writing-team-that-writes-great-docs) at [speakerdeck.com](https://speakerdeck.com/gaylin) (though honestly they're pretty unhelpful without the sound or transcript)
 - a [link to the 7.5 rules](/seven-and-a-half-rules.md) I speak about in my talk, listed on a single page so you don't have to click through the slides
 - an [explanation](/why-only-seven-and-a-half-rules.md) of the numbering of the rules
